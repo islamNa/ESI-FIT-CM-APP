@@ -5,30 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e5a3673-2e16-4d8f-8482-46e7005e0140" name="Changes" comment="GUIs Linked to the backend ;-)">
-      <change afterPath="$PROJECT_DIR$/clients.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/ClientSessionsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/ClientSessionsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/RegisterController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/UpdateSessionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/UpdateSessionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/service/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/service/ClientService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/view/ClientListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/ClientListController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/view/RegisterView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tls/sofoste/esifitapp/view/RegisterView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/client-sessions-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/client-sessions-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/clientList-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/clientList-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/landing-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/landing-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/login-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/login-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/main-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/main-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/register-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/register-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/update-session-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tls/sofoste/esifitapp/update-session-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/clientList-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/clientList-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/landing-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/landing-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/login-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/login-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/register-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/register-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/ESIFITApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/ESIFITApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/ESIFITController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/ESIFITController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/model/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/model/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/model/Session.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/model/Session.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/service/ClientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/service/ClientService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/view/RegisterView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/view/RegisterView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/service/SessionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tls/sofoste/esifitapp/service/SessionService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,28 +81,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_directory_selection": "F:/Project Files/Github/tls/ESI-FIT-CM-APP/src/main/java/tls/sofoste/esifitapp",
-    "last_opened_file_path": "F:/Project Files/Github/tls/ESI-FIT-CM-APP/src/main/resources/tls/sofoste/esifitapp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_directory_selection&quot;: &quot;F:/Project Files/Github/tls/ESI-FIT-CM-APP/src/main/java/tls/sofoste/esifitapp&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Project Files/Github/tls/ESI-FIT-CM-APP/src/main/resources/tls/sofoste/esifitapp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Project Files\Github\tls\ESI-FIT-CM-APP\src\main\resources\tls\sofoste\esifitapp" />
